@@ -9,9 +9,14 @@
 
 /* PARTE DO LOGIN/CADASTRO */
 body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
     background-size: cover;
     background-position: center;
-    background-size: cover;
 }
 
 .main-login, .main-cadastro{
