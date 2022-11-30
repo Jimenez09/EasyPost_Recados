@@ -16,7 +16,7 @@
     justify-content: center;
     align-items: center;
     flex-flow: column;
-    background-image: url('/images/img2.jpg');
+    background-image: url("../images/img2.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -134,7 +134,7 @@
 /* PARTE DOS RECADOS */
 .main-recados{
     /* background-color: #222; */
-    background-image: url('/images/img2.jpg');
+    background-image: url("../images/img2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
