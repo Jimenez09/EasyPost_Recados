@@ -8,16 +8,6 @@
 }
 
 /* PARTE DO LOGIN/CADASTRO */
-img{
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-flow: column;
-    background-size: cover;
-    background-position: center;
-}
 
 .main-login, .main-cadastro{
     width: 100vw;
@@ -26,10 +16,9 @@ img{
     justify-content: center;
     align-items: center;
     flex-flow: column;
-    /* background-image: url(/src/images/img2.jpg);
+    background-image: url(/src/images/img2.jpg);
     background-size: cover;
     background-position: center;
-    background-size: cover; */
 }
 
 .titulo-login{
